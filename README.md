@@ -1,1 +1,1 @@
-# map-plus
+[![Build status](https://ci.appveyor.com/api/projects/status/im0vwbu2n1sl4h2s?svg=true)](https://ci.appveyor.com/project/yooyklon/map-plus)
